@@ -88,11 +88,26 @@ allGreaterThan5(2, 7) -> false
 
  /*                              *** Exercice 5 ***
 
- 
- 
+ function largest() {
+    var x1 = 10
+    var x2 = 5
 
+    if (x1 > x2) {
 
+        return x1
+      }
+
+else if(x2 > x1){
+
+    return x2
+}
+
+}
+ 
 ***invoking***
+largest()---> 10
+
+
 
 
 
