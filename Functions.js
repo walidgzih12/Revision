@@ -123,9 +123,39 @@ largest()---> 10
     
  
 ***invoking***
-result is : 5
+result is : 5   
 
 
+// **********************************************************************************************
+                      
+
+ /*                              *** Exercice 7 ***
+
+ 
+    function guessMyNumber(number) {
+
+    if(number > 5){
+
+        return "Please try a number between 0 and  5."
+    }
+
+else if(number===Rand(5)){
+
+    return "Nice Guess!"
+}
+
+else{
+
+    return "Wrong Guess!! try again."
+}
+    
+}
+
+function Rand(number) {
+
+    return  Math.floor(Math.random() *(number+1))
+    
+}
 
 
 
