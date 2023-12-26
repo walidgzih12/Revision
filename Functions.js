@@ -160,7 +160,14 @@ function Rand(number) {
 
 
 
-*/
+    */
+function age(n){
+    for (i=0;i<n;i+=){
+console.log("hello")
+    
+}
+    
+}
 
 
 
