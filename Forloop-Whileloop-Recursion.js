@@ -109,3 +109,20 @@ function countCharAtIndex(string1, index, string2) {
     }
 
 }
+
+
+/* exercice 7
+
+var store = ""
+function reverseString(string) {
+
+    for(var i = string.length ; i >= 0 ; i--){
+
+
+        store = store + string.charAt(i)
+    }
+
+    return store
+}  
+
+*/
