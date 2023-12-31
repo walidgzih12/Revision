@@ -83,6 +83,8 @@ function sumMinToMax(min, max) {
  
 /*exercice 6 
 
+var StoreCh = ""
+var count = 0
 function countCharAtIndex(string1, index, string2) {
 
     if(index>=0 && index < string1.length){
@@ -93,19 +95,15 @@ function countCharAtIndex(string1, index, string2) {
 
             if(StoreCh===string2.charAt(i)){
 
-                
-
-             count=count + 1
+              count=count + 1
    }   
 }
-
-  return count
-        
+ return count
          }
         
     else{
 
-        console.log("wrong")
+console.log("wrong")
     }
 
 }
