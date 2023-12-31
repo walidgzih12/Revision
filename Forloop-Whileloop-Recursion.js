@@ -126,3 +126,21 @@ function reverseString(string) {
 }  
 
 */
+
+/* exercice 8
+var count = 0
+function getIndexOf(string,char){
+
+    for(var i = 0 ; i<string.length ; i++){
+
+     if(char===string[i]){
+
+        return i
+     }
+        
+    }
+
+    
+}
+
+*/
