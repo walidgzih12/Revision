@@ -142,3 +142,21 @@ function getIndexOf(string,char){
 }
 
 */
+
+/* exercice9
+var res = []
+function arrayFor(array){
+
+    for(var i = 0 ; i<array.length ; i++){
+
+        console.log(array[i])
+
+        
+    }
+    return
+    
+    
+    
+}
+
+/*
